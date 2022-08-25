@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 1 John 3:2
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Festus-Kwafo&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stat
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Festus-Kwafo&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
