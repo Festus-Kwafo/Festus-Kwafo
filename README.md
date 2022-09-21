@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there I'm Festus 👋
 
 - 🔭 I'm a Computer Science major student at the University of Ghana
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/festus-kwafo/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 1 John 3:2
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Festus-Kwafo&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ### Development Toolkit 👨‍💻
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Festus-Kwafo&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 -->
     
   </div>
