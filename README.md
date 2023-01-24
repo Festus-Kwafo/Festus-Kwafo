@@ -40,15 +40,4 @@
 -->
     
   </div>
-  
-  <table border="0">
-    <tr style="border: none">
-        <td style="border: none">
-          <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=Festus-Kwafo&theme=react&show_icons=true&count_private=true" />
-        </td>
-        <td>
-          <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Festus-Kwafo&layout=compact&theme=react&count_private=true" />
-        </td>
-    </tr>   
-  </table>
 </center>
