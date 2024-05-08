@@ -1,8 +1,6 @@
 ### Hi there I'm Festus 👋
 
-- 🔭 I'm a Computer Science major student at the University of Ghana
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/festus-kwafo/).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 1 John 3:2
 
 
